@@ -2,6 +2,7 @@
 *
 !.gitignore
 !/build/**
+!/hello-world/**
 
 # Cruft
 .DS_Store
