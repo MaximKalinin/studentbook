@@ -17,13 +17,13 @@ var __wpo = {
       "/863bb9034e46a86b4a4afdd8b6f9463d.png",
       "/0e83252bce835a23b7876c112c53818f.png",
       "/7d33fed3ecd9f23df592f767eb9aa031.png",
-      "/runtime.85d3d4c2abe01ce63c1a.js",
+      "/runtime.d215c540ad593a6eec4e.js",
       "/"
     ],
     "additional": [
       "/npm.intl.d3b309cd1f41ae274e7d.chunk.js",
       "/npm.webpack.b7e1ba51e7f6ecb13483.chunk.js",
-      "/main.ecc3dfa86bc5d45f0590.chunk.js",
+      "/main.0a5aa05b751fb6730242.chunk.js",
       "/npm.babel.a92a0a73e5394ac646f0.chunk.js",
       "/npm.connected-react-router.b89cc15901e75246dadc.chunk.js",
       "/npm.emotion.b0f578c6c1c88ec6440d.chunk.js",
@@ -61,7 +61,7 @@ var __wpo = {
     "d077c43cf93c001cbd97aa30202e87625406e668": "/7d33fed3ecd9f23df592f767eb9aa031.png",
     "1e7fd4463861aeb6a378cf7fb56273f34f47d204": "/npm.intl.d3b309cd1f41ae274e7d.chunk.js",
     "7e8b365af072c84395f57e0f38da74b78401b795": "/npm.webpack.b7e1ba51e7f6ecb13483.chunk.js",
-    "888a75bda5750113aaa59d92cebf141fb73a48d2": "/main.ecc3dfa86bc5d45f0590.chunk.js",
+    "184dd59f45b0017f4b089505f2ec209f0685e638": "/main.0a5aa05b751fb6730242.chunk.js",
     "fd00f7528eba84d15bd92d2768a8136ed435452e": "/npm.babel.a92a0a73e5394ac646f0.chunk.js",
     "2763f82d13ab81b83be58d7be642e1675f0db221": "/npm.connected-react-router.b89cc15901e75246dadc.chunk.js",
     "fdbd497393ff652ca9c8212ccf806ab783f4dd91": "/npm.emotion.b0f578c6c1c88ec6440d.chunk.js",
@@ -73,15 +73,15 @@ var __wpo = {
     "d27c354c2ca913e524522a13da2fa78143a83e4c": "/npm.react-redux.97e3c68cf48d6bcfd845.chunk.js",
     "f766b1f1e525b9d2f68b51150facd3274f3a4da6": "/npm.reactcss.55b8651cd885a398bbd6.chunk.js",
     "5af9a08af0c99527d10ebdc8bb9efcd25b0c8761": "/npm.redux-saga.41dc88093c5f2fa6ee92.chunk.js",
-    "b6137ac25e3ae69d1d332cf24c3c7743d2a92a59": "/runtime.85d3d4c2abe01ce63c1a.js",
+    "0934669122b6d21fbfabd27668c46c344b825a9a": "/runtime.d215c540ad593a6eec4e.js",
     "29870996dd70125fec6d8769efcc1ed4426c29ae": "/15.83375e8267bb0b98a167.chunk.js",
     "5538539ce0d4e3d0252a7452688e1dad132d6102": "/16.6034045e6580999510bb.chunk.js",
     "73361e27c453f7b1dd0e0150c1885f3d324eeefa": "/17.d6848cc7cc19eb7fbec4.chunk.js",
-    "a233d3893764d9c4c564fa0b1ea3eff143dd60f0": "/"
+    "a10d92467c9048934ba2238de9d419c6102888e3": "/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "2019-6-7 01:41:25",
+  "version": "2019-6-7 01:55:45",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
@@ -166,7 +166,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "/studentbook";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
